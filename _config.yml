@@ -1,7 +1,6 @@
 ---
 title: Let's Talk Payments
 timezone: UTC
-logo: https://n6zgo3se7pe2sazc62u1v9qe-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/ltplogo.png
 collections:
   posts:
     title: Posts
@@ -9,6 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+logo: https://n6zgo3se7pe2sazc62u1v9qe-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/ltplogo.png
 email: prasad@letstalkpayments.com
 author: John Otander
 description: Lets Talk Payments
