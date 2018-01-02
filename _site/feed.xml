@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Let's Talk Payments</title>
+    <description>Lets Talk Payments</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Biometrics as the Catalyst: FinTech Pulls Away From Banks</title>
+        <description>&lt;p&gt;The development of &lt;a href=&quot;https://letstalkpayments.com/by-2020-the-consumer-market-for-mobile-biometrics-will-exceed-34-6-billion/&quot;&gt;biometrics on mobile devices&lt;/a&gt; is set to have an outsized impact on mobile wallets and international money transfer. Advances such as fingerprint login, retinal scan, and facial recognition offer a rare opportunity for remittance companies to both combat fraud and improve the user experience.&lt;/p&gt;
+
+&lt;p&gt;Mobile wallet transactions alone are expected to reach nearly &lt;a href=&quot;https://www.juniperresearch.com/press/press-releases/mobile-wallet-spend-to-rise-by-more-than-30-this&quot;&gt;$1.4 trillion&lt;/a&gt; in 2017, growing 32% compared to 2016, and the number of mobile phone users will top 5 billion. Biometrics represents the next major technological advance that will push FinTech past traditional banks.&lt;/p&gt;
+
+&lt;p&gt;With the current mobile focus of the remittance industry, it is uniquely positioned to not only ensure money arrives but also to know the identity of every customer – at scale and without a retail footprint. One of the most critical parts of enabling and safeguarding money transfers requires knowing a user’s identity — and biometrics offers a way to do just that.&lt;/p&gt;
+
+&lt;h2 id=&quot;entering-the-next-phase-of-fintech&quot;&gt;Entering the next phase of FinTech&lt;/h2&gt;
+
+&lt;p&gt;The internet was the original game changer, enabling digitally funded remittances for the first time. Then, the advent of smartphones pushed the industry into a new phase by simplifying the experience and empowering the customer to send money from anywhere. Now, the advanced biometrics offered on mobile devices ushers in a new era.&lt;/p&gt;
+
+&lt;p&gt;Biometrics improves the user experience by reducing form fields, eliminating the need to upload a picture of a physical ID, and fully automating the know-your-customer (KYC)/anti-fraud process. Moreover, for the first time, digitally funded transfers will offer better KYC and fraud checks than banks or brick-and-mortar competitors.&lt;/p&gt;
+
+&lt;p&gt;Today, capturing an image of a photo ID is the ultimate method of KYC. If a company has your ID, they know who you are – or so we are told.&lt;/p&gt;
+
+&lt;p&gt;In the future, easy-to-fake physical IDs will not be sufficient, as the standard is pushed to fingerprints, retinal scans or face recognition.&lt;/p&gt;
+
+&lt;p&gt;In other words, the mobile connection to users will be more valuable than an in person, retail experience.&lt;/p&gt;
+
+&lt;h2 id=&quot;understanding-the-vulnerabilities&quot;&gt;Understanding the vulnerabilities&lt;/h2&gt;
+
+&lt;p&gt;The authentication of identities and information – especially in financial transactions – is far from a new concept. However, traditional methods will not be able to keep up with the rapidly changing technology landscape.&lt;/p&gt;
+
+&lt;p&gt;With hacked or compromised credentials, attackers can wreak havoc by posing as legitimate users and moving or stealing unauthorized funds. Not only is there a risk of theft, but fraudsters also exploit peer-to-peer (P2P) money transfer services for money laundering and terrorism financing. Considering the fact that P2P payments are expected to be used by nearly&lt;a href=&quot;https://www.javelinstrategy.com/press-release/javelin-predicts-1-2-us-consumers-will-conduct-p2p-2021&quot;&gt; 129 million adults&lt;/a&gt; in the US by 2021, the threat isn’t going away anytime soon.&lt;/p&gt;
+
+&lt;p&gt;Combating cybercrime in such a highly regulated industry requires authenticating users and truly knowing a person is who they say they are. In addition to KYC, it’s also crucial to leverage technological advancements to stay one step ahead of fraudsters and their accelerating threats.&lt;/p&gt;
+
+&lt;h2 id=&quot;international-impact&quot;&gt;International impact&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://letstalkpayments.com/behaviometrics-will-define-the-new-era-of-security/&quot;&gt;Advances in biometrics&lt;/a&gt; will have a disproportionately positive impact on people from developing countries where the current ID technology is low and less reliable.&lt;/p&gt;
+
+&lt;p&gt;The number of people living outside of the country in which they were born has surpassed&lt;a href=&quot;http://www.un.org/en/development/desa/population/migration/data/estimates2/estimates15.shtml&quot;&gt; 244 million&lt;/a&gt;, representing a 41% increase between 2000 and 2015. Many of these people come from places where the identity infrastructure is weak and disconnected from developed systems in the US and Europe.&lt;/p&gt;
+
+&lt;p&gt;However, with biometrics, remittance companies will no longer need to accommodate a driver’s license from India or voting card from Mexico. Instead, they can use biometrics to safely and securely identify customers across the world.&lt;/p&gt;
+
+&lt;h2 id=&quot;new-challenges-in-fraud-in-money-laundering&quot;&gt;New challenges in fraud in money laundering&lt;/h2&gt;
+
+&lt;p&gt;Of course, for every technological advance in combating fraud and money laundering, there is a response from resourceful criminals across the world. Even with biometrics, money launderers will attempt synthetic biometrics or general hacking.&lt;/p&gt;
+
+&lt;p&gt;Still, with legacy players lagging behind and focused on traditional methods of fraud prevention, advances by FinTechs will make them the less desirable adversary and push much of the challenges to the less equipped competitors.&lt;/p&gt;
+
+&lt;h2 id=&quot;do-customers-actually-want-this&quot;&gt;Do customers actually want this?&lt;/h2&gt;
+
+&lt;p&gt;Technological advances are great, but only valuable if customers buy in. People are growing accustomed to mobile biometrics – from unlocking their devices with the touch of a finger to using facial or voice recognition to make purchases.&lt;/p&gt;
+
+&lt;p&gt;Not only are users comfortable with this type of authentication, they prefer it. About &lt;a href=&quot;https://newsroom.mastercard.com/news-briefs/overcoming-mobile-biometric-challenges-mastercard-and-university-of-oxford-collaborate-on-new-research-initiative/&quot;&gt;93%&lt;/a&gt; of consumers would rather use biometrics than passwords. This represents a mindset shift to methods that are based on who a person is, not what information they can remember.&lt;/p&gt;
+
+&lt;p&gt;Implementing biometrics as a security measure also helps to build trust with users, especially since more than three-quarters (78%) of customers believe a mobile app with biometrics is more secure compared to apps without it. With that trust, comes the opportunity to drive increased brand loyalty and better user experience.&lt;/p&gt;
+
+&lt;p&gt;There are many innovations on the road ahead, but few stand to impact remittances – and FinTech as a whole – like biometrics. With more users, the continued proliferation of mobile devices and the relentless threat of cybercrime, FinTechs are poised to push past banks as the preferred and most trusted custodians of consumer funds.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Dec 2017 06:28:00 +0000</pubDate>
+        <link>http://localhost:4000/2017/12/26/biometrics-as-the-catalyst-fintech-pulls-away-from-banks/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/26/biometrics-as-the-catalyst-fintech-pulls-away-from-banks/</guid>
+      </item>
+    
+      <item>
+        <title>Daily Review: The AI Chip Startup Explosion Is Already Here</title>
+        <description>&lt;p&gt;With software evolution comes the hardware revision. As advanced AI requires new levels of computational capabilities, the very hardware that fuels it is being redesigned to allow emerging industries and technologies to fast-track development and adoption.&lt;/p&gt;
+
+&lt;h2 id=&quot;pick-1-the-ai-chip-startup-explosion-is-already-here&quot;&gt;Pick #1. The AI chip startup explosion is already here&lt;/h2&gt;
+
+&lt;p&gt;When you talk to investors in Silicon Valley, you’ll still find some skepticism. Why, for example, would companies look to buy faster chips for their training when older cards in an Amazon server may be just as good for their training? And yet there is still an enormous amount of money flowing into this area. And it’s coming from firms that are the same ones that bet big on Uber (though there’s quite a bit of turbulence there) and WhatsApp.&lt;/p&gt;
+
+&lt;p&gt;Nvidia is still a clear leader in this area and will look to continue its dominance as devices like autonomous cars become more and more relevant. But as we go into 2018, we’ll most likely start to get a better sense as to whether these startups actually have an opportunity to unseat Nvidia. There’s the tantalizing opportunity of creating faster, lower-power chips that can go into internet-of-things thingies and truly fulfill the promise of those devices with more efficient inference. And there’s the opportunity of making those servers faster and more power-efficient when they look to train models – like ones that tell your car what a squirrel looks like – may also turn out to be something truly massive.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2017/12/24/the-ai-chip-startup-explosion-is-already-here/&quot;&gt;Read more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;pick-2-quantum-computers-barely-exist--heres-why-were-writing-languages-for-them-anyway&quot;&gt;Pick #2. Quantum Computers Barely Exist – Here’s Why We’re Writing Languages for Them Anyway&lt;/h2&gt;
+
+&lt;p&gt;Programming languages for classical computers are designed in a way that doesn’t require developers to know how a central processing unit works. The push now is to create high-level quantum programming languages that also shield developers from the complexities of quantum hardware.&lt;/p&gt;
+
+&lt;p&gt;The quirks of quantum computing create limitations that don’t exist in classical programming languages. One example: quantum programs can’t have loops in them that repeat a sequence of instructions; they have to run straight through to completion.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.technologyreview.com/s/609774/quantum-computers-barely-exist-heres-why-were-writing-languages-for-them-anyway/&quot;&gt;Read more&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Dec 2017 06:25:00 +0000</pubDate>
+        <link>http://localhost:4000/2017/12/26/daily-review-the-ai-chip-startup-explosion-is-already-here/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/26/daily-review-the-ai-chip-startup-explosion-is-already-here/</guid>
+      </item>
+    
+      <item>
+        <title>The Big Question for Insurers Is Not Tech but Whom to Partner With for IOT InsurTech</title>
+        <description>&lt;p&gt;I would start with a quote by Edewede Oriwoh: “The &lt;a href=&quot;https://letstalkpayments.com/internet-of-things-iot-evolution/&quot;&gt;Internet of Things&lt;/a&gt; is not a concept; it is a network, the true technology-enabled Network of all networks.” I truly believe that this is just the beginning we are witnessing. As per Gartner, 20.4 billion connected “things” will be in use by 2020 with consumer segment having the largest number of users (60% of the market). The IoT endpoint spending worldwide is expected to be over $2.9 trillion. The cross-industry devices, such as those targeted at smart buildings (including LED lighting, HVAC, and physical security systems) will be in demand as connectivity is driven into higher-volume, lower-cost devices.&lt;/p&gt;
+
+&lt;p&gt;With the insurance industry trying hard to navigate what I believe to be a sinking ship, the IoT seems to present a ray of hope. IoT has enabled the evolution of core business models, centered on need servicing, data-driven decision-making, and predictive advisory. Traditionally, business models revolved around product provisioning and one-time sales. The IoT has presented an opportunity for cross-sale/up-sale, thus identifying new sources of revenue generation.&lt;/p&gt;
+
+&lt;h2 id=&quot;insurance-pain-points&quot;&gt;Insurance Pain Points&lt;/h2&gt;
+
+&lt;p&gt;Currently, the insurance industry is plagued by a one-size-fits-all policy (think of current health, life insurance, and auto insurance you avail) instead of a target-based policy (what we have experienced in lending, and other FinTech verticals). Customer loyalty/experience was always and still is a sorry state in most insurance companies. Policy renewal, after-sales service for claims, etc., ranks low on the priority list. The touchpoints with customer occur only once or twice per year unless you get into trouble. (I’ve experienced this myself over the last seven years). Additionally, the antique data points (with no relation to risk prevention and monitoring) are being used for pricing and risk management. Due to limited data availability, insurance fraud often drags the financial performance of companies.&lt;/p&gt;
+
+&lt;h2 id=&quot;iot--a-ray-of-hope&quot;&gt;IoT – A ray of hope&lt;/h2&gt;
+
+&lt;p&gt;“In God We Trust. All Others Must Bring Data.” – W. Edwards Deming, Statistician, professor &amp;amp; author&lt;/p&gt;
+
+&lt;p&gt;IoT is a network of physical objects that gathers as well as transmits information for data processing and insights. The collected data allows better decision-making in pricing, risk assessment, etc., for insurance companies. P&amp;amp;C lines were the first to adopt this through auto telematics. Recently, we have seen interest in other lines of insurance business such as health, home, industries, etc. Demands for drones for property inspection, usage-based insurance, sensors, and detectors are increasing particularly in commercial insurance (factories, warehouses, commercial vehicles, etc.).&lt;/p&gt;
+
+&lt;p&gt;The IoT will enable companies to shift their strategy from reactive restitution to proactive prevention. For example: &lt;a href=&quot;https://www.gemalto.com/iot&quot;&gt;Gemalto’s IoT solution&lt;/a&gt; enables remote monitoring of smart objects, thus eliminating middlemen. Smart Structures embeds sensors in its structure during concrete pouring, thus enabling the real-time health monitoring of its buildings.&lt;/p&gt;
+
+&lt;h2 id=&quot;five-key-areas-for-iot-value-addition-for-the-insurance-ecosystem&quot;&gt;Five key areas for IoT value addition for the insurance ecosystem:&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Increasing the number of touchpoints: Traditionally, insurers interact with their customers only once or twice a year – for policy renewal or claims. IoT offers an opportunity to initiate a continuous, end-to-end dialogue, leading ultimately to a new personalized relationship. Example: Accenture has developed a connected home platform that connects the most relevant devices to homeowners and insurers, including cameras, window and door sensors, motion detectors, etc. It allows insurers’ CRM systems to monitor usage and trigger discounts as appropriate based on data, enhancing customer experience.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Product innovation: Startups are building new products such as usage-based insurance, short-term insurance, lifestyle products, etc. This enables low-risk customers to get customized products and be awarded for “good behavior.”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Fraud prevention and claims management: With novel data, companies can use analytics to weed out frauds and bogus claims. Wearables are enhancing fraud detection capabilities. As reported in the &lt;a href=&quot;https://www.insurancejournal.com/magazines/features/2017/02/20/441830.htm&quot;&gt;Insurance Journal&lt;/a&gt;, there was a case where a heart monitor’s data was used to prove an individual may have been involved in arson. According to the report, data recorded by a man’s cardiac pacemaker helped lead to his indictment on charges of aggravated arson and insurance fraud in a fire at his Ohio home.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Risk management: Having continuous real-time data enables companies to assess risks better, which in turn helps in pricing and underwriting to be more dynamic and personalized.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Enhanced customer base: An opportunity to reach more tech-savvy customers who are underinsured or do not want to take up insurance.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;whats-next-for-the-insurance-ecosystem&quot;&gt;What’s next for the insurance ecosystem&lt;/h2&gt;
+
+&lt;p&gt;Although there is a proliferation in &lt;a href=&quot;https://medici.letstalkpayments.com/research-categories/fintech-foresights-vol-2&quot;&gt;connected devices&lt;/a&gt; (owing to the decreasing cost of hardware/software, enhanced data storage and processing frameworks, smartphone penetration, etc.), insurers have failed or are finding it hard to convince customers about the benefits. The challenge lies in scaling and the mass adoption of IoT-based insurance products. This is the only way it can have a meaningful impact on their profitability.&lt;/p&gt;
+
+&lt;p&gt;Although the key is to form partnerships in the industry’s ecosystem (IoT value chain), the question that remains is this: how do they move forward? There are many questions which insurers need to find the answers for. Will insurers tie up with multiple stakeholders in the value chain? Will it increase the complexity? The other option is to tie up with big industry players (like Accenture) to get a full-stack solution. But this reduces the flexibility and might impact the cost centers of the insurers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/IO1.png&quot; alt=&quot;IO1.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There is another option – to partner with InsurTech startups (see below infographic), work with manufacturers, and build connections directly into the product. This helps in tapping into the expertise of IoT startups and quickly launching the product into the market. More information about IoT startups and partnerships can be found in the &lt;a href=&quot;https://medici.letstalkpayments.com/research-categories/disruptive-trends-in-insurtech-current-and-beyond&quot;&gt;Disruptive Trends in InsurTech – Current and Beyond&lt;/a&gt; report.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/IO2.png&quot; alt=&quot;IO2.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Additionally, they may seek to tie up with other large tech firms (Amazon – Echo, Microsoft- Cortana, etc.) and nudge consumers towards purchasing.&lt;/p&gt;
+
+&lt;p&gt;Consumers also have not helped the insurer’s cause as they do not feel comfortable volunteering their information. The huge amount of data from connected insurance has made regulatory bodies to mandate consumer data protection policies. With the Data Protection (GDPR) regulation in EU, the going may get tougher as it lets customers take more control of their data. Also, questions remain on how to build standards, guidelines around data sharing, and how these standards will differ globally. Insurers and other IoT players need to find a common ground.&lt;/p&gt;
+
+&lt;p&gt;Also, insurers need to jump the wave from risk transfer (currently) to risk monitoring and management. Only then will they will be to provide a real-time, risk-based insurance product.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-in-it-for-insurers&quot;&gt;What’s in it for insurers?&lt;/h2&gt;
+
+&lt;p&gt;The IoT enables insurers to revamp/add products to their current operations of selling insurance to consumers. It provides an opportunity for increasing their customer base across verticals by offering a better risk-based product. Additionally, it lets them increase their profitability by eliminating fraudulent claims and improve their top line through the cross-selling of insurance products.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/IO3.png&quot; alt=&quot;IO3.png&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Dec 2017 06:12:00 +0000</pubDate>
+        <link>http://localhost:4000/2017/12/25/the-big-question-for-insurers-is-not-tech-but-whom-to-partner-with-for-iot-insurtech/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/25/the-big-question-for-insurers-is-not-tech-but-whom-to-partner-with-for-iot-insurtech/</guid>
+      </item>
+    
+      <item>
+        <title>Holiday 101: Recognizing Fraud &amp; How to Beat It</title>
+        <description>&lt;p&gt;The holidays are a major stress test for professionals supporting the retail pipeline. Every year, e-commerce retailers (eTailers) vow to fight the wave of holiday fraud better than the year before without turning away good business. Now they must also prepare to defend themselves against more overall fraud attacks; they can expect &lt;a href=&quot;https://www.aciworldwide.com/news-and-events/press-releases/2017/january/global-fraud-attempts-increased-by-31-during-holiday-shopping-season&quot;&gt;fraud attempts&lt;/a&gt; to jump by 30% or more – much like they did in 2016. One of the biggest challenges eTailers face is recognizing criminals hiding amongst the higher volume of shopping during peak season. Another key challenge is anticipating a fraudster’s tactics, which become increasingly sophisticated to fool businesses out of goods and services.&lt;/p&gt;
+
+&lt;p&gt;So, how should eTailers fight these and other fraud challenges before they are slammed with peak season? There are four key steps:&lt;/p&gt;
+
+&lt;h2 id=&quot;1-think-like-a-criminal&quot;&gt;1. Think like a criminal&lt;/h2&gt;
+
+&lt;p&gt;Have a fraud team member routinely challenge rules and make fine-tuning adjustments based on what he/she learns. Keep a line of communication open with the promotions department, so you’re aware of what deals fraudsters might attempt to take advantage of, like offer codes and other holiday-specific promotions.&lt;/p&gt;
+
+&lt;p&gt;Criminals attack their eTailer victims through several different channels including mobile web, call centers, retail stores, and online shopping. Savvy fraud teams employ a range of tools to fight these attacks including identity verification, device fingerprinting, IP proxy detection and geolocation, transaction and custom scoring, and order linking.&lt;/p&gt;
+
+&lt;p&gt;One of the strongest indicators of online fraud is the identity information of the consumer (or criminal). In fraudulent transactions, there’s a high likelihood of account credentials, identity information or credit cards having been purchased from the “dark web,” or the internet’s black market, where this information is freely sold. Rarely do criminals get a full account profile, so they often cobble together authentic credentials into a synthetic identity. Fortunately, with today’s identity verification tools, fraud teams can quickly flag indicators that a user might not be exactly who they say they claim to be.&lt;/p&gt;
+
+&lt;p&gt;Sometimes thinking like a criminal means thinking like a robot. Bot activity and automated fraud attacks are relatively new fraud attacks and are becoming more widely used. Malicious bot activity makes up 20% to 50% or more of traffic on e-commerce and media sites. During the holiday season when order volumes are at annual peaks, criminals attempt to blend in with the large number of transactions. There are a few &lt;a href=&quot;https://letstalkpayments.com/behavioral-biometrics-dynamic-approach-to-authentication-and-security/&quot;&gt;biometric fraud detection solutions&lt;/a&gt; that detect bot-like behavior and deter that type of fraud.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-thoughtfully-expand-your-efforts&quot;&gt;2. Thoughtfully expand your efforts&lt;/h2&gt;
+
+&lt;p&gt;The rush of holiday traffic will undoubtedly mean a temporary, larger fraud operation. Acknowledging that your fraud review team cannot scale proportionately with the increase of volume, consider the best combination of software – using advanced techniques in &lt;a href=&quot;https://letstalkpayments.com/how-banks-regulators-are-applying-machine-learning/&quot;&gt;machine learning&lt;/a&gt; and &lt;a href=&quot;https://letstalkpayments.com/ai-most-defining-technology-banking-industry/&quot;&gt;artificial intelligence&lt;/a&gt; – and staff additions. When identifying the right solution, make sure the machine learning capabilities truly add value all year-long and can keep pace when traffic volumes multiply.&lt;/p&gt;
+
+&lt;p&gt;When you do expand your seasonal staff, conduct thorough fraud training – especially if they have a customer service background or mentality. Trained fraud professionals operate with a healthy dose of skepticism and take careful measures not to let a friendly voice fool them into an account takeover or another scheme. This is called “social engineering” and often, is a most-effective cross-channel fraud technique for criminals – get an online order rejected and call to complain to have that “reject” decision reversed.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-track-false-positives&quot;&gt;3. Track false positives&lt;/h2&gt;
+
+&lt;p&gt;In today’s e-commerce world where there are quite literally millions of choices, losing a loyal customer is tragic. The lost lifetime value of that customer can be huge for a company. This holds especially true during the holidays. &lt;a href=&quot;https://letstalkpayments.com/during-the-holidays-existing-customers-are-more-valuable-than-new-ones/&quot;&gt;One study&lt;/a&gt; found that holiday business from repeat customers is greater for both the short term and the long term, and for repeat customers who came back at some point after the holiday season – they spent 160% more than new customers.&lt;/p&gt;
+
+&lt;p&gt;Why is the value of the customer so important to fraud? Because your propensity to reject a good customer can result in significant lost revenue. About 10% &lt;a href=&quot;https://www.cybersource.com/content/dam/cybersource/2017_Fraud_Benchmark_Report.pdf&quot;&gt;of rejected transactions&lt;/a&gt; are estimated to be false positives. When any of those customers could have become a return customer, it’s worth taking a step back and to make sure you are not too risk-averse. Not all online retailers are tracking false positives, so this holiday season, make it a goal to track false positives and improve your systems to reduce them. Often eTailers have to call customers that were rejected in order to truly determine the level of their false positives. This is extremely valuable information and it’s not uncommon to win back customers that may have been lost forever by reaching out.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-leverage-identity-linkages&quot;&gt;4. Leverage identity linkages&lt;/h2&gt;
+
+&lt;p&gt;In an age where data breaches are far too common – some estimate that the identity of nearly every American adult has been compromised – an online retailer’s confidence in approving or rejecting transactions hinges on the ability to verify identity. One of the simplest and fastest ways to do so involves identity data linkages, which is especially effective at determining a customer’s legitimacy and protecting against account takeover and synthetic identity fraud.&lt;/p&gt;
+
+&lt;p&gt;Identity linkages include confirming an applicant’s phone is linked to their name, an address to a name, and an email to a name. Additionally, signals like the date that email was first seen online are huge indicators of risk. Email first seen yesterday? That would be very risky. Retailers who link together identity elements won’t prevent a good customer from getting their holiday goods and will effectively deter fraud attacks.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Be prepared this holiday season: utilize a fully prepared fraud team and customer identity verification strategy. The perfect combination will deliver faster approvals for legitimate customers, reduce fraud and lower false positives this upcoming holiday season so you can concentrate on your bottom line.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Dec 2017 06:03:00 +0000</pubDate>
+        <link>http://localhost:4000/2017/12/22/holiday-101-recognizing-fraud-and-how-to-beat-it/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/22/holiday-101-recognizing-fraud-and-how-to-beat-it/</guid>
+      </item>
+    
+      <item>
+        <title>Daily Review: Italy Launches a Nationwide Wireless Network for the IoT</title>
+        <description>&lt;p&gt;High connectivity is one of the hallmarks of the modern society. At any moment in time, individuals are plugged into society through the range of devices, which as well are constituting a complex ecosystem of smart connected things. According to &lt;a href=&quot;http://harvardecon.org/?p=3310&quot;&gt;HBR&lt;/a&gt;, “Consumers are becoming more and more connected whether it is at home, at work, behind the wheel, when they engage in sports and leisure activities, and so on. This is happening quite fast, due to the adoption of smart devices, and companies have to be able to react accordingly in order to maximize value both for their clients and for themselves.”&lt;/p&gt;
+
+&lt;p&gt;Italy is known to be one of the leading nations when it comes to connected devices, and a homeland of telematics, which is &lt;a href=&quot;https://www.linkedin.com/pulse/20141007053518-6024099-health-insurance-telematics-opportunity&quot;&gt;defined&lt;/a&gt; by Matteo Carbone as an “integrated use of informatics and telecommunication, it is about capturing, storing and analyzing data via telecommunication devices. &amp;lt;…&amp;gt; Telematics could be one of the most relevant digital innovation in the insurance industry directly impacting the technical results. Due to the pervasive diffusion of the Internet of Everything this approach could be extended from motor insurance to other insurance businesses.”&lt;/p&gt;
+
+&lt;p&gt;In its latest development, Italy’s largest telecommunications provider Telecom Italia, is powering the country with a new wireless network for the IoT.&lt;/p&gt;
+
+&lt;h2 id=&quot;pick-1-italy-launches-a-new-wireless-network-for-the-internet-of-things&quot;&gt;Pick #1. Italy Launches a New Wireless Network for the Internet of Things&lt;/h2&gt;
+
+&lt;p&gt;Telecom Italia, Italy’s largest telecommunications provider, is putting the finishing touches on a new wireless network for the Internet of Things that should be available nationwide by the end of January.&lt;/p&gt;
+
+&lt;p&gt;Connected devices often don’t need as much bandwidth as smartphones, but connecting them through existing LTE networks is expensive. In order for the IoT to catch on, telecommunications companies believe those devices need their own dedicated wireless networks. Two new types of networks – called Long Term Evolution for Machines (LTE-M) and Narrowband–Internet of Things (NB-IoT) – are now being deployed for that purpose. Both are designed for low-power devices that send only a few bits of data at a time.&lt;/p&gt;
+
+&lt;p&gt;Unlike Wi-Fi, these networks operate in a licensed cellular spectrum where there is minimal radio interference. They also provide coverage over tens of kilometers, much farther than local wireless access points or short-range technologies such as Bluetooth and Zigbee.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://spectrum.ieee.org/telecom/wireless/italy-launches-a-new-wireless-network-for-the-internet-of-things&quot;&gt;Read more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;pick-2-ubs-eyes-wider-rollout-of-online-wealth-management-service&quot;&gt;Pick #2. UBS eyes wider rollout of online wealth management service&lt;/h2&gt;
+
+&lt;p&gt;UBS, the world’s biggest private bank, is considering rolling out its online investment platform in more countries after a successful trial in Britain. SmartWealth, which launched in Britain this year, provides automated financial advice for customers looking to invest upward of £15,000.&lt;/p&gt;
+
+&lt;p&gt;“We built a fully automated digital wealth management adviser. Scaling this up will be essential,” the Swiss bank’s Chief Operating Officer for wealth management, Dirk Klee, told Reuters.&lt;/p&gt;
+
+&lt;p&gt;UBS hopes SmartWealth will help expand its customer base from millionaires and billionaires to the mass affluent, those with assets of 100,000-2 million pounds to invest. SmartWealth could be expanded on the back of the bank’s newly unified IT platform, which excludes only the bank’s US private banking business which is run out of a separate American division.&lt;/p&gt;
+
+&lt;p&gt;Last year, UBS said it would spend around 1 billion Swiss francs ($1 billion) to standardize its IT platform across the wealth management business, helping to lower costs and facilitate the launch of digital features like SmartWealth. The project to unify the IT structure began in 2013, with UBS aiming to have it finished by end-2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/article/us-ubs-group-ag-wealth/ubs-eyes-wider-rollout-of-online-wealth-management-service-idUSKBN1EF1JZ&quot;&gt;Read more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;pick-3-didi-sets-sights-on-lucrative-web-finance-sector&quot;&gt;Pick #3. Didi sets sights on lucrative web finance sector&lt;/h2&gt;
+
+&lt;p&gt;Didi Chuxing, China’s largest ride-hailing company, acquired a much-coveted license to enter the internet finance sector. Didi has agreed to acquire third-party payment-services provider 19Pay for 300 million yuan ($45.4 million), according to a filing by Shenzhen-listed GoHigh Data Networks Technology Co, the owner of 19Pay.&lt;/p&gt;
+
+&lt;p&gt;The deal will give Didi a license to conduct online-payment business, enabling it to enter an industry dominated by its investors Alibaba Group Holding Ltd and Tencent Holdings Ltd. Didi made the investment through its wholly owned subsidiary Shanghai Shiyuan Technology.&lt;/p&gt;
+
+&lt;p&gt;Didi told China Daily that the license will be used to serve its transportation services and improve the user experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.chinadaily.com.cn/a/201712/21/WS5a3af31fa31008cf16da2816.html&quot;&gt;Read more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;pick-4-kenyas-fintech-companies-are-innovating-to-bring-small-businesses-into-their-fold&quot;&gt;Pick #4. Kenya’s FinTech companies are innovating to bring small businesses into their fold&lt;/h2&gt;
+
+&lt;p&gt;Mobile operators and electronic payment firms are focusing on the hundreds of thousands of small businesses in Kenya by introducing new products specifically aimed at paying for low-value card transactions with ease, speed, and convenience.&lt;/p&gt;
+
+&lt;p&gt;PesaPal, a Nairobi-based aggregator for online and mobile payments, recently introduced a mobile point-of-sale (mPOS) service known as Sabi (Pidgin English for ‘understand’) that would process payments in both local and US dollar currencies. Using their Android phones or tablets, the Visa or Mastercard payments are processed over Bluetooth by connecting to a portable terminal. The technology allows the over 300 businesses in Kenya, Uganda, and Tanzania that have signed up so far to view their transaction history and to issue receipts.&lt;/p&gt;
+
+&lt;p&gt;After launching POS systems to rival similar products like PayPal and Square to target large chains, PesaPal CEO Agosta Liko tells Quartz the mobile portal will tap into the potential of smaller businesses like barbershops, artisan furniture stores, gyms, and craft stores by allowing consumers to make payments from as little as one Kenyan shilling ($0.009). It’s a “big market. It’s a ridiculously big space,” Liko said. “So we are looking to that as a market that we would be able to serve reliably.”&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://qz.com/1162541/kenyas-safaricom-pesapal-are-target-smes-with-e-payment-services-using-visa-mastercard/&quot;&gt;Read more&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Dec 2017 05:57:00 +0000</pubDate>
+        <link>http://localhost:4000/2017/12/22/daily-review-italy-launches-a-nationwide-wireless-network-for-the-iot/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/22/daily-review-italy-launches-a-nationwide-wireless-network-for-the-iot/</guid>
+      </item>
+    
+      <item>
+        <title>20 Blockchain-Focused Startup Accelerators as Unconventional as the Technology</title>
+        <description>&lt;p&gt;As the blockchain-focused community of entrepreneurs expands worldwide, so does the ecosystem aimed to support and nurture top-performing solutions. Being FinTech-focused is not enough – experienced professionals are branching out to blockchain-focused entities, incubating and accelerating development and deployment of DLT-based solutions across industries.&lt;/p&gt;
+
+&lt;h2 id=&quot;adel&quot;&gt;&lt;a href=&quot;http://www.adelphoi.io/&quot;&gt;Adel&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.adelphoi.io/&quot;&gt;Adel&lt;/a&gt; is a global cryptocurrency community that is self-regulated, self-sustained, and offers its own economic ecosystem with the Adelphoi token. Its community focuses on creating, developing, and implementing use cases involving blockchain technology that covers a wide range of digital and physical industries. Projects are chosen by the community and successful ventures are either reinvested in for further growth or issued as rewards to Adel’s stakeholders.&lt;/p&gt;
+
+&lt;p&gt;In this ecosystem, the Adel Board will act as an advisor by providing guidance to its community. Leadership is appointed to utilize the highest level of expertise, integrity, and due diligence.&lt;/p&gt;
+
+&lt;h2 id=&quot;bank-of-england-fintech-accelerator&quot;&gt;&lt;a href=&quot;http://www.bankofengland.co.uk/Pages/fintech/default.aspx&quot;&gt;Bank of England FinTech Accelerator&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.bankofengland.co.uk/Pages/fintech/default.aspx&quot;&gt;Bank of England FinTech Accelerator&lt;/a&gt; works in partnership with firms working with new technology to explore how FinTech innovations could be used in central banking. The Bank of England’s work on distributed ledger technologies and machine learning has highlighted areas for further exploration, so the bank is particularly keen to advance its understanding of quantitative and qualitative machine learning solutions and to conduct a more detailed exploration of privacy in distributed ledger networks.&lt;/p&gt;
+
+&lt;p&gt;The Bank of England is looking for firms to join it in working on a time-limited PoC in the following areas: big data analytics, privacy in distributed ledger systems, and XBRL data storage.&lt;/p&gt;
+
+&lt;h2 id=&quot;bithub-by-space-kenya-networks&quot;&gt;&lt;a href=&quot;http://bithub.co.ke/&quot;&gt;BitHub&lt;/a&gt; by &lt;a href=&quot;http://spacekenya.com/company/&quot;&gt;Space Kenya Networks&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bithub.co.ke/&quot;&gt;BitHub&lt;/a&gt;.Africa is a commercial blockchain accelerator that is driving the adoption of blockchain technology and solutions across Africa. The accelerator’s focus is developing innovative and relevant solutions using blockchain technology.&lt;/p&gt;
+
+&lt;p&gt;BitHub provides analytical, development, maintenance, and support services for organizations interested in deploying blockchain solutions. BitHub also trains and hosts blockchain developers at its hub in Nairobi, creating the best pool of expertise in this area across the African continent.&lt;/p&gt;
+
+&lt;h2 id=&quot;block-chain-space&quot;&gt;&lt;a href=&quot;http://blockchain.space/&quot;&gt;Block Chain Space&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blockchain.space/&quot;&gt;Block Chain Space&lt;/a&gt; is a focused startup accelerator for talented visionaries creating disruptive solutions to real-world problems using blockchain technology.&lt;/p&gt;
+
+&lt;p&gt;Block Chain Space is a connected environment conducive to creativity and collaboration, combining mentoring and coaching sessions from industry experts. Staying true to the global, ubiquitous reach of blockchain technology, Block Chain Space developed a multi-location 12-week acceleration program to help its participants benefit from the technology’s disruptive potential.&lt;/p&gt;
+
+&lt;h2 id=&quot;blockchain-business-camp-tokyo&quot;&gt;&lt;a href=&quot;https://www.prnewswire.com/news-releases/tokyo-metropolitan-government-invites-applications-for-accelerator-program-blockchain-business-camp-tokyo-300540388.html&quot;&gt;Blockchain Business Camp Tokyo&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The Tokyo Metropolitan Government (TMG) has been actively working to attract foreign companies to raise international competitiveness and bring about further growth for the capital city by promoting the creation of a more business-friendly environment for overseas businesses and startups. In October 2017, TMG announced the &lt;a href=&quot;https://www.prnewswire.com/news-releases/tokyo-metropolitan-government-invites-applications-for-accelerator-program-blockchain-business-camp-tokyo-300540388.html&quot;&gt;“Blockchain Business Camp Tokyo”&lt;/a&gt; accelerator program for foreign companies that possess advanced blockchain technology in areas such as transactions, securities, IoT, supply chains, and the sharing economy. The TMG aims for this intensive three-month program to generate groundbreaking innovation.&lt;/p&gt;
+
+&lt;p&gt;In addition to having Tokyo-based, leading Japanese companies that are involved in fields – such as transactions, securities, IoT, supply chains and the sharing economy – serve as mentors at the camp, the opportunity to connect with investors, Tokyo-based businesses, and others will also be provided. Furthermore, the technologies and services of the foreign companies participating in the program (about five companies) will be advertised for an extended period using digital signage located around Shinjuku and Tokyo stations in the heart of Tokyo, and support will be extended to foreign companies that decide to establish their business in Tokyo.&lt;/p&gt;
+
+&lt;h2 id=&quot;blockchain-business-solution-accelerator-by-deutsche-bank&quot;&gt;&lt;a href=&quot;http://www.h-farm.com/en/acceleration/accelerators/blockchain-accelerator&quot;&gt;Blockchain Business Solution Accelerator by Deutsche Bank&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.h-farm.com/en/acceleration/accelerators/blockchain-accelerator&quot;&gt;Blockchain Business Solution Accelerator by Deutsche Bank&lt;/a&gt; offers:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Industry Partners &amp;amp; Business Development. The program connects startups with leading industry partners willing to collaborate with innovative ventures. Selected partners organize dedicated advisory sessions and specific activities with each startup while considering possible pilots, business development agreements, and investments.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mentorship &amp;amp; Workshops. Startups can attend workshops held by the bank experts covering key themes such as Business Strategy &amp;amp; Development, Communication &amp;amp; Marketing, Coding &amp;amp; Dev, UX &amp;amp; Design, and Legal &amp;amp; Fundraising. Startups can also meet with entrepreneurs, investors, managers and business leaders from the banks’ international network.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Accelerator Team. During the program, startups are provided with a full-time dedicated team that works closely with them. The team is made of: Accelerator Director, Program Manager, Program Assistants, and Operations Manager. These people take care of the teams’ stay and organize weekly meetings to monitor progress.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Working Spaces, Room &amp;amp; Board, Food.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Seed Investment &amp;amp; Demo Night. Every team receives €20.000 in cash with a possibility for further investment from the H-FARM Investment fund at the end of the program. After four months of acceleration, startups are invited to pitch at Demo Night to an international audience made by business angels, investors, companies, and journalists.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tech Partners. Deutsche Bank provides access to hundreds of perks, free or discounted services. The value of these offers is more than €450.000.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;International Opportunity. Deutsche Bank is one of the key members of the GAN (Global Accelerator Network). Once a startup takes part in the banks’ acceleration programs, it gains access to GAN Services: remote mentorships sessions, tech partners, and temporary desk space in other accelerators. Startups also have visibility to international investors.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Who should apply? Startups working on blockchain technology-based solutions that can impact the following areas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Commercial trade&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Supply chain &amp;amp; logistics&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Manufacturing&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Payments (B2B)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Legal &amp;amp; IP&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;IT (Cloud/Fog Technologies)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And the following industries:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Automotive&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Food &amp;amp; beverage&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Energy, oil &amp;amp; gas&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Construction &amp;amp; real estate&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Finance (trading, protocols, exchange platforms, etc.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Insurance&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;blockchain-trust-accelerator&quot;&gt;&lt;a href=&quot;https://www.newamerica.org/bretton-woods-ii/blockchain-trust-accelerator/learn-about-blockchain-trust/introduction-accelerator/&quot;&gt;Blockchain Trust Accelerator&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;In June 2016, New America, the Bitfury Group, and the National Democratic Institute &lt;a href=&quot;http://bitfury.com/content/4-press/6.20.16-trust-accelerator-release.pdf&quot;&gt;announced&lt;/a&gt; the launch of the&lt;a href=&quot;https://www.newamerica.org/bretton-woods-ii/blockchain-trust-accelerator/learn-about-blockchain-trust/introduction-accelerator/&quot;&gt;Blockchain Trust Accelerator&lt;/a&gt; Institute, a platform that will connect blockchain-based pilot concepts with the technologists, governments, and funders in order to deliver better governance outcomes and social impact. The Blockchain Trust Accelerator will help match promising pilot proposals with the civic expertise and technical partners needed to produce software that can be successfully scaled to address social and governance challenges.&lt;/p&gt;
+
+&lt;p&gt;The Blockchain Trust Accelerator initiative is managed through New America and focuses on locating, matching and supporting individuals from the technology, business, academia, governments, and philanthropy spheres to deploy pilot programs using blockchain technology.&lt;/p&gt;
+
+&lt;h2 id=&quot;boost-vc&quot;&gt;&lt;a href=&quot;http://www.boost.vc/blockchain&quot;&gt;Boost VC&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.boost.vc/blockchain&quot;&gt;Boost VC&lt;/a&gt; is an institutional fund to commit to funding blockchain companies. The fund is looking for companies that are using the technology for settlement of contracts where they can eliminate middlemen, confirmation of identity with both personal and fraud prevention, and providing transparency of information to end-users. Boost VC runs two accelerator programs every year and invests up to $50k in exchange for 7% of the company.&lt;/p&gt;
+
+&lt;h2 id=&quot;chicagos-bitcoin-center&quot;&gt;&lt;a href=&quot;http://www.chicagobitcoin.com/&quot;&gt;Chicago’s Bitcoin Center&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Launched in July 2015, &lt;a href=&quot;http://www.chicagobitcoin.com/&quot;&gt;Chicago Bitcoin Center&lt;/a&gt; became the first Bitcoin incubator launched at 1871, Chicago’s hub for digital startups, to serve as Chicago’s key resource and center of gravity for blockchain-based technologies. The Chicago Bitcoin Center works to foster a new wave of technological innovation on the blockchain and is dedicated to education, innovation, and development of blockchain-based technologies.&lt;/p&gt;
+
+&lt;p&gt;In addition to the office space in the Chicago Bitcoin Center, incubator companies receive access to mentorship by leading Bitcoin entrepreneurs, technologists, and investors. The Chicago Bitcoin Center also provides a full suite of public relations and government affairs services to member companies.&lt;/p&gt;
+
+&lt;h2 id=&quot;coin-apex&quot;&gt;&lt;a href=&quot;http://www.coinapex.com/&quot;&gt;Coin Apex&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.coinapex.com/&quot;&gt;Coin Apex&lt;/a&gt; is a New York-based incubator that builds products integrating cryptography, software, and technology. Coin Apex has the structure in place to bring forth value in areas from giving guidance on regulatory compliance to building out specific programming projects. The company can offer a full scope of services from advising to implementation, and evaluates its role in projects on a case-per-case basis, keeping in mind what is best for potential clients, partners, and customers.&lt;/p&gt;
+
+&lt;h2 id=&quot;coinsilium&quot;&gt;&lt;a href=&quot;https://www.coinsilium.com/&quot;&gt;Coinsilium&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coinsilium.com/&quot;&gt;Coinsilium&lt;/a&gt; is an accelerator that finances and manages the development of early-stage blockchain technology companies. It does this through its consortium of investors, industry thought leaders and executive managers. Based in London, Coinsilium’s focus is on driving innovation in FinTech and blockchain technologies, enabling businesses to take advantage of growth opportunities. Coinsilium’s shares are traded on the NEX Exchange Growth Market, the primary market for unlisted securities operated by NEX Exchange, which is a Recognized Investment Exchange under the Financial Services and Markets Act 2000.&lt;/p&gt;
+
+&lt;h2 id=&quot;dc-blockchain-center-by-1776-and-the-chamber-of-digital-commerce&quot;&gt;DC Blockchain Center by &lt;a href=&quot;http://www.1776.vc/&quot;&gt;1776&lt;/a&gt; and the &lt;a href=&quot;http://www.digitalchamber.org/&quot;&gt;Chamber of Digital Commerce&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;In September 2016, &lt;a href=&quot;http://sports.yahoo.com/news/blockchain-innovation-center-opens-washington-130000672.html&quot;&gt;the Chamber of Digital Commerce and technology incubator 1776 have partnered to launch the DC Blockchain Center&lt;/a&gt; to serve as Washington, DC’s entrepreneurial resource for technology providers and governments investing and innovating in blockchain-based technologies.&lt;/p&gt;
+
+&lt;p&gt;The DC Blockchain Center at 1776 is the first blockchain incubator in Washington, DC. It’s focused on helping regulators and government agencies, including state, federal and international, understand the potential benefits of blockchain technology, and public sector use cases, and to provide a forum for the public and private sectors to collaborate.&lt;/p&gt;
+
+&lt;h2 id=&quot;digital-currency-group&quot;&gt;&lt;a href=&quot;http://dcg.co/&quot;&gt;Digital Currency Group&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dcg.co/&quot;&gt;Digital Currency Group&lt;/a&gt; (DCG) builds and supports Bitcoin and blockchain companies by leveraging its expertise, network, and access to capital. Based in New York City, DCG has been an active seed investor in the digital currency industry with over 70 investments in 20 countries.&lt;/p&gt;
+
+&lt;h2 id=&quot;distributed-vision&quot;&gt;&lt;a href=&quot;http://www.distributed.vision/&quot;&gt;Distributed Vision&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.distributed.vision/&quot;&gt;Distributed Vision&lt;/a&gt; is a business incubator and advisor. From landscape analysis to proof-of-concept development, the company facilitates business and technology workshops, training and presentations. The central thread running through all interactions is the startup in the context of disruptive technology. Distributed Vision helps with technical and non-technical understanding, sandboxing, and incubation.&lt;/p&gt;
+
+&lt;p&gt;The organization guides entrepreneurs through key decisions: does the business go for a distributed database versus a blockchain, a public or a private blockchain, an off-the-shelf protocol or a self-build and more.&lt;/p&gt;
+
+&lt;h2 id=&quot;ibm-blockchain-accelerator&quot;&gt;&lt;a href=&quot;https://www.ibm.com/blockchain/accelerator/&quot;&gt;IBM Blockchain Accelerator&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://www.ibm.com/blockchain/accelerator/&quot;&gt;IBM Blockchain Accelerator&lt;/a&gt; is a fee-based engagement designed to advance new blockchain network founders towards the goal of a successfully working blockchain solution.&lt;/p&gt;
+
+&lt;p&gt;The Accelerator provides guidance, support, and technical expertise to guide the development of new blockchain solutions while considering the ecosystem of users and partners who benefit. The accelerator targets not just technology, but the legal and business considerations of establishing new blockchain networks.&lt;/p&gt;
+
+&lt;p&gt;IBM is looking for candidates with an interest in constructing a production blockchain network on The Linux Foundation’s Hyperledger Fabric. The Accelerator will be looking for strong teams that have the capabilities to deploy a blockchain production network on an accelerated timeline.&lt;/p&gt;
+
+&lt;p&gt;The IBM accelerator provides:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Coaching and support from IBM’s Blockchain experts who have contributed to Hyperledger Fabric and Hyperledger Composer to help founders architect and develop their network to its full capabilities.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Access to the IBM Blockchain Platform so that founders can get started developing, governing and operating your business network.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Access to IBM’s pre-built blockchain software assets to save teams weeks of development effort.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Opportunity for co-marketing with IBM to position members of participants’ consortium as technology leaders and promote their blockchain network.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Coding and architect reviews to keep participants’ network build moving at a fast pace.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Founder learning sessions with a curriculum designed to complement existing experiences.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Design Thinking Workshop in the IBM Blockchain Workshop to help explore and design the “to-be” state of startups’ use case process using blockchain.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Opportunity for a six-week MVP build-out with the IBM Blockchain Workshop.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;outlier-ventures&quot;&gt;&lt;a href=&quot;https://outlierventures.io/&quot;&gt;Outlier Ventures&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://outlierventures.io/&quot;&gt;Outlier Ventures&lt;/a&gt; co-develops blockchain startups with entrepreneurs, corporate venturing partners, consortia, and accelerators because the company believes blockchains are about networks, not platforms. Outlier Ventures is actively building an ecosystem of partnerships to rapidly innovate and scale well-funded startups with great teams of seasoned professionals.&lt;/p&gt;
+
+&lt;p&gt;Outlier Ventures Ltd is the research and commercial arm of the venture platform which tracks over 30 blockchain use cases at any one time on behalf of Outlier Capital LLP. It serves as an incubator and accelerator engaging venture partners including entrepreneurs, startups, and corporate partners to qualify problem-solution fit, build product-market fit, and scale companies.&lt;/p&gt;
+
+&lt;h2 id=&quot;satoshi-studios&quot;&gt;&lt;a href=&quot;http://satoshistudios.io/&quot;&gt;Satoshi Studios&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://satoshistudios.io/&quot;&gt;Satoshi Studios&lt;/a&gt; is an incubator for blockchain startups in Southeast Asia. All the selected companies move to New Delhi, India, for a three-month intensive program (April 2017–June 2017) where they’ll get access to awesome mentorship, hands-on sessions with blockchain experts, a great office space, and a great living space where they’ll work with other blockchain enthusiasts from Southeast Asia. The incubator invests $50K in exchange for 8%–15% of equity.&lt;/p&gt;
+
+&lt;h2 id=&quot;sparkchain-capital&quot;&gt;&lt;a href=&quot;http://www.sparkchaincapital.com/&quot;&gt;SparkChain Capital&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sparkchaincapital.com/&quot;&gt;SparkChain Capital&lt;/a&gt; is an early-stage VC fund focused on investing in the leading blockchain and cryptocurrency innovations across the world. The fund is powered by SparkLabs Group, which is comprised of SparkLabs accelerator network, Asia’s premier startup accelerators; SparkLabs Global Ventures, a leading seed-stage fund; SparkLabs Ventures, a localized early-stage fund (Series A &amp;amp; B) in South Korea; SparkLabs Capital, a late-stage investment vehicle. SparkLabs accelerator network consists of SparkLabs Korea (Seoul), SparkLabs China (Beijing and launching Shanghai, Chengdu, and Shenzhen), SparkLabs IoT &amp;amp; Smart Cities (Songdo, South Korea), SparkLabs Taipei, and SparkLabs FinTech (Hong Kong).&lt;/p&gt;
+
+&lt;h2 id=&quot;synechrons-finlabs&quot;&gt;&lt;a href=&quot;https://www.synechron.com/finlabs/blockchain&quot;&gt;Synechron’s FinLabs&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Synechron, digital, business consulting &amp;amp; technology services providers, based in New York, runs three innovation labs – focused on blockchain, AI, and InsurTech. FinLabs acts as an innovation hub for the company allowing its clients to touch and feel the latest digital technologies. Visitors can do everything from role-playing the customer journey through a typical digital engagement scenario in order to understand the impact of beacons, drones, biometric authentication and virtual reality, to prototyping around new technologies like blockchain. The blockchain-focused innovation lab aims to help companies accelerate their own blockchain projects.&lt;/p&gt;
+
+&lt;p&gt;Synechron’s Blockchain Accelerators are working applications that demonstrate how blockchain can solve real-world operational problems. They accelerate clients’ integration and deployment program. Synechron has created process frameworks and application code for six industry and process blockchain accelerator solutions.&lt;/p&gt;
+
+&lt;h2 id=&quot;zhongan-technology&quot;&gt;&lt;a href=&quot;https://tech.zhongan.com/en&quot;&gt;ZhongAn Technology&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;ZhongAn, China’s online insurance giant, &lt;a href=&quot;http://www.prnewswire.com/news-releases/chinas-leading-online-insurer-zhongan-launches-zhongan-technology-creating-a-new-fintech-ecosystem-300357531.html&quot;&gt;launched&lt;/a&gt; &lt;a href=&quot;https://tech.zhongan.com/en&quot;&gt;ZhongAn Technology&lt;/a&gt;, an incubator aimed to explore technology innovation to ZhongAn and its external partners through its “ABCD” plan, focusing on four main areas: artificial intelligence, blockchain, cloud computing, and data-driven tech. ZhongAn Technology will roll out its services on a blockchain cloud platform called &lt;a href=&quot;http://www.anlink.com/&quot;&gt;Anlink&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;ZhongAn Technology, together with more than 20 business partners from various sectors, has established Shanghai Blockchain Enterprise Development Alliance, the first industry-driven blockchain-focused body in China to promote the development and business applications of blockchain technology.&lt;/p&gt;
+
+&lt;p&gt;ZhongAn Technology has adopted the technology of Ethereum, the blockchain-based decentralized network, in its platform and partnered with Fudan University School of Computer Sciences and Technology to set up a “blockchain and information security laboratory.” This is the first joint laboratory between a university and a company focusing on blockchain technology in China.&lt;/p&gt;
+
+&lt;p&gt;Find a comprehensive overview and detailed information on accelerator programs and incubators in &lt;a href=&quot;https://medici.letstalkpayments.com/&quot;&gt;MEDICI&lt;/a&gt;, FinTech’s Global Knowledge Network.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Dec 2017 04:20:00 +0000</pubDate>
+        <link>http://localhost:4000/2017/12/21/20-blockchain-focused-startup-accelerators-as-unconventional-as-the-technology/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/21/20-blockchain-focused-startup-accelerators-as-unconventional-as-the-technology/</guid>
+      </item>
+    
+      <item>
+        <title>Daily Review: Shoppable Videos Are Here, Will They Change the Face of E-Commerce?</title>
+        <description>&lt;p&gt;Given that &lt;a href=&quot;http://www.cisco.com/c/en/us/solutions/collateral/service-provider/visual-networking-index-vni/mobile-white-paper-c11-520862.html&quot;&gt;three-fourths (75%) of the world’s mobile data traffic will be video by 2020&lt;/a&gt;, there is a strong chance that the future of payments will migrate from buttons in apps and mobile-friendly web pages into video-embedded options. In this &lt;a href=&quot;http://www.cisco.com/c/en/us/solutions/collateral/service-provider/visual-networking-index-vni/mobile-white-paper-c11-520862.html&quot;&gt;study&lt;/a&gt;, Cisco explains that mobile video will grow at a CAGR of 62% between 2015 and 2020, higher than the overall average mobile traffic CAGR of 53%. Of the 30.6 exabytes per month crossing the mobile network by 2020, Cisco estimates that 23.0 exabytes will be due to video. Mobile video represented more than half of global mobile data traffic beginning in 2012, indicating that it is already affecting traffic today, not just in the future.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://letstalkpayments.com/bank-branches-are-not-dying-they-are-evolving-into-video-banking/&quot;&gt;Video has been noticed as an attractive platform for commercial interaction by financial institutions &lt;/a&gt;that review it as a possible alternative for physical branches. In-video payments systems are not limited to commercials and other forms of short features, good ol’ product placement can finally be employed on the spot. A major advantage of in-video payments, in this case, is in the ability to measure the effectiveness of spent funds and significantly boost the profitability of any business.&lt;/p&gt;
+
+&lt;h2 id=&quot;pick-1-levis-debuts-shoppable-video-for-holiday-gift-inspiration&quot;&gt;Pick #1. Levi’s debuts shoppable video for holiday gift inspiration&lt;/h2&gt;
+
+&lt;p&gt;Shoppable video is picking up traction as brands and retailers seek to lessen friction on the consumer path to purchase, and this latest version from Levi’s stands out due to its simplicity and short length. The video offers something of a torrent of products for consumers but allows shoppers to skip any hard sales pitches or other promotions. If a viewer is interested in something they see, all it takes is a click to add that product to a virtual cart. The e-commerce element is fairly simple, and the user experience is interactive, engaging and seamless, particularly when someone wants to make a quick purchase and doesn’t quite know where to begin.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.retaildive.com/news/levis-debuts-shoppable-video-for-holiday-gift-inspiration/513528/&quot;&gt;Read more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;pick-2-two-big-banks-set-to-launch-their-own-online-lending-platforms&quot;&gt;Pick #2. Two Big Banks Set to Launch Their Own Online Lending Platforms&lt;/h2&gt;
+
+&lt;p&gt;Barclays Enters Online Consumer Lending. UK-based Barclays has been increasing their footprint in the US the last few years through the Barclaycard brand. They are now one of the top 10 credit card issuers in the US. News broke last month that Barclays would be launching a digital bank in 2018 and rebranding from Barclaycard to Barclays in the US. An integral part of this strategy will be an unsecured consumer loan offering, something they have been testing since late 2016. They are targeting prime and super-prime borrowers, loans will range from $5,000 and $35,000 and can be repaid in three, four or five years. The interest rates range from 4.99% to 18.99% and the loans carry no origination fees or prepayment penalties. They plan to launch fully in 2018 as they have originated about 15,000 loans to date through the testing phase.&lt;/p&gt;
+
+&lt;p&gt;PNC Financial Services. Pittsburgh-based PNC Financial Services Group is one of the top 10 largest banks in the US with $371 billion in assets. They are looking to launch their online consumer lending product in new branches and through their mobile wallet product. The new platform is expected to launch in 2018. This is a bit out of the ordinary for the bank as they have not yet had a nationwide offering like this, instead focusing on the 19 states where they have established a presence. The new product will help with their rollout to new branch markets in Minneapolis, Dallas, and Kansas City. This looks to be part of a wider digital overhaul the bank has been doing the last few years as it seeks to service customers in a more digital fashion.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.lendacademy.com/two-big-banks-set-launch-online-lending-platforms/&quot;&gt;Read more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;pick-3-estonias-tech-guru-outlines-ideas-for-digital-estcoin&quot;&gt;Pick #3. Estonia’s tech guru outlines ideas for digital ‘estcoin’&lt;/h2&gt;
+
+&lt;p&gt;Estonia could become the first country in Europe to launch its own digital means of exchange – the “estcoin” – under plans outlined by Kaspar Korjus, the manager of Estonia’s pioneering e-residency scheme, in place since 2014.&lt;/p&gt;
+
+&lt;p&gt;Kaspar Korjus said in a blog post that the estcoin would be aimed at the Baltic country’s 27,000 e-residents – foreigners who open a company there via the web – but would not be a parallel currency to rival the euro.&lt;/p&gt;
+
+&lt;p&gt;Korjus said estcoins could serve one of three purposes: rewarding services to the e-resident community, verifying one’s identity online, or as a means of payment pegged to the euro. “All three of these models of estcoin are viable and can be introduced (even without alarming the European Central Bank),” Korjus wrote in the blog post.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/article/us-bitcoin-estonia-estcoin/estonias-tech-guru-outlines-ideas-for-digital-estcoin-idUSKBN1ED1E6&quot;&gt;Read more&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Dec 2017 04:11:00 +0000</pubDate>
+        <link>http://localhost:4000/2017/12/21/daily-review-shoppable-videos-are-here-will-they-change-the-face-of-e-commerce/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/21/daily-review-shoppable-videos-are-here-will-they-change-the-face-of-e-commerce/</guid>
+      </item>
+    
+      <item>
+        <title>To Solve Poverty, We Need a New Type of Innovation</title>
+        <description>&lt;p&gt;“In trying to solve poverty, our challenge is not a lack of money. The money is there, but it needs to be redirected to innovative ideas with social impact that is much more meaningful.”&lt;/p&gt;
+
+&lt;p&gt;Author, entrepreneurship guru, and startup revolutionist &lt;a href=&quot;https://rochemamabolo.wordpress.com/&quot;&gt;Roche Mamabolo&lt;/a&gt; shares insights on three types of innovation, and in an example-rich presentation, emphasizes that role of innovation in powering critical social change to lift people from poverty.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zfZF4M1l6Uo&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;To solve poverty, we need a new type of innovation, Roche Mamabolo, TEDxJohannesburgSalon&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Dec 2017 04:06:00 +0000</pubDate>
+        <link>http://localhost:4000/2017/12/21/to-solve-poverty-we-need-a-new-type-of-innovation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/21/to-solve-poverty-we-need-a-new-type-of-innovation/</guid>
+      </item>
+    
+      <item>
+        <title>In 2018, Banks Will Start Buying FinTechs, Investing More, and Learn to Benchmark Innovation</title>
+        <description>&lt;p&gt;In our discussions lately with CXOs and innovation heads of major banks, we have been seeing an interesting trend shaping up. Many of them are trying to find ways to measure the success (or failure) of innovation programs and accelerators – essentially trying to find the KPIs for benchmarking innovation (internal and external data). Some of them even said, “We will be looking to buy those startups. It’s not just about collaborative innovation.”&lt;/p&gt;
+
+&lt;p&gt;I think what we are going to witness is how innovation takes a corporate development turn from here. It will not be a full U-turn but maybe the splitting of teams into two and sending them in different directions. If you believe in FinTech and want to make a bigger play, an accelerator program is only one piece of the puzzle. Remember the original reasons why all this “FinTech” thing started:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;End-customers demanded everything to happen in four clicks on their mobile phones. The next-gen financial services experience built by startups became a growing phenomenon. All these lead to a fairly new set of expectations from banks and FIs&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Banks needed a comprehensive digital transformation strategy to make this happen.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;But there was a problem. There was a lack of time, skills, infrastructure, and also, the right culture to do it. So most banks chose the easy and quick steps – let’s bring about a perception change by organizing and participating in startup events, hackathons, third-party accelerators, et al; let’s launch a few new mobile apps/applications here and there, and talk about omnichannel.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Some of them were able to build a bigger and more meaningful roadmap. They set up an innovation office and have a structured innovation program including shortlisting startups and had their own bank accelerator. Good start. And to be fair, it’s okay to make mistakes and learn and evolve. Any bank which has reached this stage is worthy of appreciation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;It doesn’t take more than two to three years to realize that even that is not enough. There are questions about the ROI of these investments. How do we make sure it’s helping with our core #1 and #2 objectives? And those are the key conversations you need to have if you are a bank.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Comprehensive digital transformation is a big, big undertaking. It’s almost as if you are setting up a new organization. I am not going to go into too much detail on what it is and how it should be done. Please see my note* at the bottom to know more.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;But what I am going to discuss is something that is going to be an important part of the comprehensive digital transformation and specifically one part of it as it relates to working with startups. And that is where the funds and corporate development and the M&amp;amp;A machinery of the bank (old or new that will be set up) will come into the picture. Why will this happen?&lt;/p&gt;
+
+&lt;p&gt;As explained by a bank that when we acquire or invest and take a board seat, we can guide the strategic product roadmap. In a typical no-commitment collaborative experimentation, startups keep focusing on 10 different things. This is also because banks don’t show them the right level of seriousness. Even in an accelerator program, sometimes there is a conflict of interest as startups don’t want to change their path for a half-baked and lightweight commitment. It’s a chicken and egg problem. Once the bank’s money is invested, it is important to see the results for the bank. There will be more seriousness and startups will be able to move things, ship, integrate, and go to market quickly. As banks look to benchmark innovation, investing in FinTechs looks like a major move in 2018.&lt;/p&gt;
+
+&lt;p&gt;This is FinServ; it is different. This is not telecom where you can make incumbents look like dump pipes. Even if you can, you will have to have a completely new financial system that doesn’t favor banks and provides a level playing field for small and big FinTechs – a new tech layer on which to operate. Is that the cryptocurrency/blockchain world? I don’t know yet. Incumbents in this space move fast and are not going to give up becoming digital and FinTechy. In fact, they were early adopters of technology as compared to any other sector and they will beg, borrow or steal but certainly try. They will buy or build.&lt;/p&gt;
+
+&lt;p&gt;There is some good data available that I can use here to back my arguments. Some of this activity has already started:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Allianz converted one of their innovation labs into a VC arm&lt;/strong&gt; – &lt;a href=&quot;https://www.dig-in.com/news/allianz-converts-innovation-lab-into-insurtech-vc-arm&quot;&gt;Allianz has announced &lt;/a&gt;the changeover of its in-house incubator, Allianz X, into a new venture capital investment arm intended to bolster digital and core technology. As part of the pivot in strategy, the German insurer will discontinue all early-stage projects and heavily invest in startups with expertise in mobility, connected property, connected health, wealth management, data intelligence and cybersecurity.&lt;/p&gt;
+
+&lt;p&gt;Ally Financial had bought online brokerage TradeKing Group in a $275-million deal. In India, Axis Bank’s acquired FreeCharge. BlackRock also decided to tap into FinTech with the $150-million acquisition of FutureAdvisor, an online investment firm. JPMorgan Chase acquired WePay, a small-business-focused payments company. In the last three years, Silicon Valley Bank acquired Standard Treasury, BBVA acquired Simple, and Ally acquired TradeKing. BNP Paribas completed the acquisition of Compte-Nickel this year as well. **And we have a whole list with us; **we have had several discussions with FIs.&lt;/p&gt;
+
+&lt;p&gt;In 2018, you may finally see new venture arms/funds of FIs/banks coming up. You will see more action from existing venture arms of banks. In some banks who may not have these arms or may not call them that, you will see corporate development and M&amp;amp;A teams getting into action. How will the innovation team and the investment group play it out in the market? Will they compete or work together? Who will take the lead? These are going to be some of the important operational questions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;But will it make sense for the FinTech startups to have banks as investors and buyers?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;From a startup’s perspective, the narrative has changed – it’s going from breaking banks/total disruption, to partnering/working with banks, to also raising money/getting acquired by banks. What’s wrong with that? Startups need scale, right? “New tech” being acquired by the old companies – it’s a win-win situation.&lt;/p&gt;
+
+&lt;p&gt;So, Oracle bought Apiary, Palerra, Eloqua and &lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_acquisitions_by_Oracle&quot;&gt;so on&lt;/a&gt;, and Apple acquired Shazam, Workflow, Siri and more – all these companies that were bought are in a bigger world (scale) today and witnessing growth at a global level.&lt;/p&gt;
+
+&lt;p&gt;Of course, there will be exceptions. There will be a few FinTechs in each region who will achieve scale like Klarna, Sofi, Paytm, and will not want to sell. Sure, but I might argue that there is an interesting thing happening there as well – they are becoming banks: TechBanks. (My next article is coming soon).&lt;/p&gt;
+
+&lt;p&gt;*If you are a Chief Innovation Officer or a CDO of a bank and if you have started thinking about this or if your CEO/board has started asking you questions about ROI, please talk to us. We have a primer/workshop and discussion material on this to get you started.&lt;/p&gt;
+
+&lt;p&gt;For us, it has always been about FinTech foresight based on what we see as a global FinTech think tank and platform/community. We have been a leading indicator of sorts for the things to come in FinTech. In 2013, it was crypto; in 2014 – blockchain; 2015 – bank innovation programs/accelerators, and so on. And this is one of the things we foresee for 2018, and there are others as well. Do let us know your feedback and comments.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Dec 2017 03:59:00 +0000</pubDate>
+        <link>http://localhost:4000/2017/12/20/in-2018-banks-will-start-buying-fintechs-investing-more-and-learn-to-benchmark-innovation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/20/in-2018-banks-will-start-buying-fintechs-investing-more-and-learn-to-benchmark-innovation/</guid>
+      </item>
+    
+      <item>
+        <title>Daily Review: What Is the Equivalent of Shovels From the Gold Rush in the Cryptocurrency World?</title>
+        <description>&lt;p&gt;Just like the guys who produced and sold shovels made a lot more fortune during the gold rush, something similar is happening in the Bitcoin world – there is an equivalent. Just look at the crypto exchanges, the hot and cold wallets (hardware), Google Authenticator (2FA), and so on.&lt;/p&gt;
+
+&lt;h2 id=&quot;pick-1-coinbase-the-heart-of-the-bitcoin-frenzy&quot;&gt;Pick #1. Coinbase: The Heart of the Bitcoin Frenzy&lt;/h2&gt;
+
+&lt;p&gt;Read about the crypto exchange Coinbase. A fascinating story of a startup that has so much demand that it’s struggling to keep up.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2017/12/06/technology/coinbase-bitcoin.html&quot;&gt;Read more.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;pick-2-dydx-is-a-decentralized-protocol-for-cryptocurrency-derivatives&quot;&gt;Pick #2. dYdX is a decentralized protocol for cryptocurrency derivatives&lt;/h2&gt;
+
+&lt;p&gt;The entire set of financial services instruments (loans, futures, derivatives, and so on) are going to be there in crypto-world as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2017/12/19/dydx-is-a-decentralized-protocol-for-cryptocurrency-derivatives/&quot;&gt;Read more.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;pick-3-blockchain-based-cross-border-payment-beta-platform-announced-by-sbi-bankchain-members--microsoft&quot;&gt;Pick #3. Blockchain-Based Cross-Border Payment Beta Platform Announced by SBI, BankChain Members &amp;amp; Microsoft&lt;/h2&gt;
+
+&lt;p&gt;Primechain-P5, a unique blockchain-based platform for cross-border remittance, was announced at the Future Money Conference 2017 in Mumbai by Sudin Baraokar, Head of Innovation at the State Bank of India.&lt;/p&gt;
+
+&lt;p&gt;P5 features 59-second global remittances at a near-zero fee on a 24×7 basis as well as automated reconciliation. The platform uses Microsoft Azure APIs for machine learning-based fraud detection systems and real-time anti-money laundering checks. Additionally, many of the P5 nodes will run on the Azure cloud. The platform also does away with the need for nostro/vostro accounts and features 100% API-driven technology.&lt;/p&gt;
+
+&lt;p&gt;Some of the banks who are exploring P5 include State Bank of India, Emirates NBD, and DCB Bank.&lt;/p&gt;
+
+&lt;p&gt;P5 has been developed by Primechain Technologies, a young blockchain startup, for members of BankChain – a community of banks for exploring, building, and implementing blockchain solutions. Formed in February 2017 with the State Bank of India (one of the largest banks in the world) being the first member, BankChain now has 30 members globally.&lt;/p&gt;
+
+&lt;p&gt;Speaking at the launch, Sudin Baraokar, Head of Innovation at State Bank of India said that P5 solves the six pain points of today’s global payments systems – inefficient onboarding, vulnerable Know Your Customer (KYC), cost and delay of global remittances, propensity for error, mandatory liquidity requirement, and demanding regulatory compliance.&lt;/p&gt;
+
+&lt;p&gt;According to Prasanna Lohar, Head of Technology – Innovation &amp;amp; Architecture, DCB Bank, “(The year) 2017 brought with it a wave of innovations and adoption of blockchain through collaboration among banks at BankChain. The need for efficient cross-border payments is overwhelming and the demand for faster cross-border payments is growing with the rise of global e-commerce. Adoption of blockchain-based cross-border payments will lead us to reduce the settlement time, removal of manual intervention, and lower the cost of completing global payments for businesses &amp;amp; consumers.”&lt;/p&gt;
+
+&lt;p&gt;According to Peter Gartenberg, General Manager – Enterprise Commercial, Microsoft India, “Blockchain has the power to help organizations to transact within an ecosystem with secured, transparent, shared and immutable information. Microsoft is working closely with global and local consortiums to understand core industry scenarios and create blockchain solutions for them. We are happy to partner with BankChain as its exclusive cloud partner to provide global scale, hybrid cloud capabilities, extensive compliance certification portfolio, and enterprise-grade security that is helping to fast-track blockchain adoption amongst banks in India.”&lt;/p&gt;
+
+&lt;p&gt;“Primechain-P5 is one of the most exciting developments in the field of global payments today. We’ve partnered with Microsoft Azure for maximum security, scalability, and stability,” said Shinam Arora, CEO, Primechain Technologies.&lt;/p&gt;
+
+&lt;p&gt;We at LTP and MEDICI are a &lt;a href=&quot;http://www.bankchain.org.in/members.php&quot;&gt;strategic partner&lt;/a&gt; for BankChain.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Dec 2017 03:49:00 +0000</pubDate>
+        <link>http://localhost:4000/2017/12/20/daily-review-what-is-the-equivalent-of-shovels-from-the-gold-rush-in-the-cryptocurrency-world/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/20/daily-review-what-is-the-equivalent-of-shovels-from-the-gold-rush-in-the-cryptocurrency-world/</guid>
+      </item>
+    
+  </channel>
+</rss>
