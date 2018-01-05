@@ -5,6 +5,8 @@ tags: about
 layout: page
 ---
 
-Have a question? Want to work with us? Have an idea to promote FinTech-at-SCALE?
+Citi Tech for Integrity (T4I)
 
-\[Get in touch!\](http://MAILTO Link) We want to hear from you.
+> *“Quote from Citi person. They can talk about how great we are.”* **-Person’s name and title**
+
+Here we can describe what we did.
