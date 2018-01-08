@@ -112,6 +112,7 @@ sass:
 plugins:
 - jekyll-paginate
 - jekyll-sitemap
+- jekyll-feed
 exclude:
 - Gemfile
 - Gemfile.lock
