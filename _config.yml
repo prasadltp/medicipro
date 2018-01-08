@@ -14,8 +14,6 @@ author: John Otander
 description: Lets Talk Payments
 baseurl: 
 url: 
-# Excerpt Word Length
-# Truncates the excerpt to the specified number of words on the index page
 excerpt_length: 50
 date_format: "%b %-d, %Y"
 header_pages:
