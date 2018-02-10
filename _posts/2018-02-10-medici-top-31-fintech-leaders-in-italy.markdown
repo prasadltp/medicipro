@@ -1,6 +1,6 @@
 ---
 title: MEDICI Top 31 FinTech Leaders in Italy
-date: 2018-01-09 07:23:00 Z
+date: 2018-02-10 07:23:00 Z
 ---
 
 Success in any industry, in financial services especially, is attributed to a combination of factors including economic conditions, [federal support](https://letstalkpayments.com/international-fintech-regulatory-sandboxes-launched-by-forward-thinking-financial-authorities/), [regulatory environment](https://letstalkpayments.com/which-countries-have-the-most-business-friendly-regulatory-environments/), the role of the main [stakeholders](https://letstalkpayments.com/the-real-gatekeepers-of-fintech-are-financial-institutions/), and, of course, the leadership, expertise, and guidance provided by the leaders’ community.
