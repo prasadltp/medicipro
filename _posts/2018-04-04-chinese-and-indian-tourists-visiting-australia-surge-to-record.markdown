@@ -1,7 +1,8 @@
 ---
 title: Chinese and Indian tourists visiting Australia surge to record
-date: 2018-02-19 08:19:00 Z
+date: 2018-04-04 08:19:00 Z
 Person: Tester
+image: "/uploads/19thMarch2018_MondayResearchCharts%20(1).png"
 ---
 
 NEW DELHI: Chinese and Indian tourist arrivals in Australia jumped to a record last year as growing middle-class wealth in the world’s most populous nations fuels the travel bug.
